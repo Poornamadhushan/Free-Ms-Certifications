@@ -37,9 +37,6 @@ Complete one eligible Microsoft AI Skills Fest skilling playlist on AI Skills Na
 |---|---|
 | Starts | June 8, 2026, 7:00 AM (00:00) UTC |
 | Ends | June 12, 2026, 11:59 PM (23:59) UTC |
-| Badge Delivery | Via email from Credly by June 19, 2026 |
-| Voucher Expiration | Within 60 days of issuance, by 12:00 AM UTC, August 11, 2026 |
-
 ---
 
 ## Quick Summary
