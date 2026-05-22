@@ -1,4 +1,4 @@
-# Microsoft AI Skills Fest 2026 – Free Certification Voucher Offer
+# Free Certification Voucher Offer - Microsoft AI Skills Fest
 
 > **Repository Description**  
 > Community-driven guidance repository for Microsoft AI Skills Fest 2026 certification voucher program, learning paths, and participation support.
