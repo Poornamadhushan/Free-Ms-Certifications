@@ -3,6 +3,12 @@
 > **Repository Description**  
 > Community-driven guidance repository for Microsoft AI Skills Fest 2026 certification voucher program, learning paths, and participation support.
 
+<div align="center">
+
+[![Register Now](https://img.shields.io/badge/Register%20Now-Official%20Program-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/)
+
+</div>
+
 ---
 
 ## About This Repository
@@ -132,6 +138,13 @@ Personal data collected during AI Skills Fest will be used by Microsoft solely f
 This repository is community-created and is not officially affiliated with Microsoft.
 
 Users should verify all information through official Microsoft sources before participating or claiming any voucher.
+
+<div align="center">
+
+[![Followers](https://img.shields.io/github/followers/Poornamadhushan?style=social)](https://github.com/Poornamadhushan)
+[![Forks](https://img.shields.io/github/forks/Poornamadhushan/AI-Skills-Fest-2026?style=social)](https://github.com/Poornamadhushan/AI-Skills-Fest-2026/fork)
+
+</div>
 
 ---
 
