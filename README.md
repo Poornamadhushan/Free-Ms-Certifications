@@ -45,12 +45,9 @@ Complete one eligible Microsoft AI Skills Fest skilling playlist on AI Skills Na
 |---|---|
 | What you do | Complete one eligible, unmodified AI Skills Fest skilling playlist |
 | Where | AI Skills Navigator |
-| Reward | 1 free certification exam voucher + 1 digital badge |
-| Voucher claim | Manual — submit a form with your info (not automatic) |
-| Badge delivery | Via email from Credly by June 19, 2026 |
-| Voucher redemption deadline | Within 60 days of issuance, by 12:00 AM UTC, August 11, 2026 |
-| Limit | One reward per person |
-
+| Reward | free certification exam voucher + digital badges |
+| Voucher claim | submit a form with your info (not automatic) |
+| Badge delivery | Via email |
 ---
 
 ## Eligibility
@@ -149,6 +146,6 @@ Users should verify all information through official Microsoft sources before pa
 
 <div align="center">
 
-Made with ❤️ for the AI Learning Community
+Made Poorna Madhushan 
 
 </div>
