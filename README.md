@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Register Now](https://aiskillsnavigator.microsoft.com/events/AISF2026?UTM_Source=AISF_Amp&UTM_Medium=Amp&UTM_Campaign=StudentAmbassador&?wt.mc_id=studentamb_378285)
+[![Register Now](https://img.shields.io/badge/https://aiskillsnavigator.microsoft.com/events/AISF2026?UTM_Source=AISF_Amp&UTM_Medium=Amp&UTM_Campaign=StudentAmbassador&?wt.mc_id=studentamb_378285)
 
 </div>
 
