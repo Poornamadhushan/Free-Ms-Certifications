@@ -122,13 +122,13 @@ Personal data collected during AI Skills Fest will be used by Microsoft solely f
 
 ## 👨‍💻 Maintained By
 
-**Poorna Madushan**
+**Poorna Madhushan**
 
 - AI & Cloud Enthusiast
 - Microsoft Learning Community Contributor
 - Passionate about AI, Azure, and Emerging Technologies
 
-[GitHub Profile](https://github.com/Poornamadhushan)
+[Poorna Madhushan](https://github.com/Poornamadhushan)
 
 ---
 
