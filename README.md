@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Register Now](https://img.shields.io/badge/Register%20Now-Official%20Program-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/)
+[![Register Now](https://aiskillsnavigator.microsoft.com/events/AISF2026?UTM_Source=AISF_Amp&UTM_Medium=Amp&UTM_Campaign=StudentAmbassador&?wt.mc_id=studentamb_378285)
 
 </div>
 
@@ -129,7 +129,7 @@ Personal data collected during AI Skills Fest will be used by Microsoft solely f
 - Microsoft Learning Community Contributor
 - Passionate about AI, Azure, and Emerging Technologies
 
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/Poornamadhushan)
 
 ---
 
