@@ -1,151 +1,93 @@
-# Free Certification Voucher Offer - Microsoft AI Skills Fest
+# Microsoft Certification Voucher Offers
 
-> **Repository Description**  
-> Community-driven guidance repository for Microsoft AI Skills Fest 2026 certification voucher program, learning paths, and participation support.
+A curated list of active Microsoft certification voucher opportunities, including the current Microsoft Certification Week event and related official programs.
 
-<div align="center">
-
-[![Register Now](https://img.shields.io/badge/Register%20Now-Official%20Program-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://aiskillsnavigator.microsoft.com/events/AISF2026?UTM_Source=AISF_Amp&UTM_Medium=Amp&UTM_Campaign=StudentAmbassador&?wt.mc_id=studentamb_378285)
-
-
-
-</div>
+> This repository is community-maintained and intended to help people find active Microsoft certification rewards and voucher opportunities.
 
 ---
 
-## About This Repository
+## Active Offer
 
-This repository provides guidance and information related to the Microsoft AI Skills Fest 2026 offer. It is intended to help participants understand the free certification voucher process, learning requirements, reward steps, and key participation rules.
+### Microsoft Certification Week - Cloud, Security and AI Business Solutions
 
-This is a community-created resource for educational support and is **not** an official Microsoft repository.
+Official registration page: https://certweeks.fastlane.net/asia/ais-aibs-en
 
----
+**Event date:** Monday, September 28, 2026 – Friday, October 2, 2026  
+**Region:** Asia  
+**Format:** 5-day instructor-led virtual training program
 
-## Official Program Overview
+This event is designed for developers, data engineers, security practitioners, and business application specialists who want to prepare for role-based Microsoft certifications in AI, security, cloud, and business applications.
 
-Complete one eligible Microsoft AI Skills Fest skilling playlist on AI Skills Navigator during the Active Period to earn a free Microsoft certification exam voucher and a digital badge.
+### What is included
 
-- One eligible, unmodified playlist is required.
-- The voucher is manual and must be claimed by submitting the official form with your information.
-- A Credly digital badge is delivered by email after completion and validation.
+- Expert-led, real-time preparation across 16 certifications
+- Hands-on labs delivered in partnership with Skillable
+- Exam vouchers for participants through the LevelUp program
+- Live Q&A with Microsoft experts
 
----
+### Voucher eligibility
 
-## Active Period
+Qualified participants can get a Microsoft exam voucher through the LevelUp program.
 
-| Event | Date & Time (UTC) |
-|---|---|
-| Starts | June 8, 2026, 7:00 AM (00:00) UTC |
-| Ends | June 12, 2026, 11:59 PM (23:59) UTC |
+To claim the voucher:
+
+1. Register for the event using a work or business email address.
+2. Complete the practice test on the LevelUp platform.
+3. Score 80% or higher on the first attempt.
+4. Receive one free Microsoft certification exam voucher per event, subject to eligibility requirements.
+
+> Important: Registrations submitted using public email addresses like Gmail or Outlook may be rejected.
+
+### Assessment rules
+
+- Each participant is allowed one assessment attempt that qualifies for a voucher.
+- A score of 80% or higher on the first attempt qualifies.
+- Additional attempts may be requested, but those attempts do not qualify for a voucher.
+
+### Certification paths covered
+
+The program includes 16 role-based certification tracks, including:
+
+- Security: SC-200, SC-401, SC-500
+- Cloud + AI: DP-600, AI-200, GH-600, AZ-305
+- AI Business Solutions: AB-100, AB-410, AB-210, AB-250, MB-800, MD-102, MS-700, MS-721, PL-400
+
 ---
 
 ## Quick Summary
 
 | Item | Detail |
 |---|---|
-| What you do | Complete one eligible, unmodified AI Skills Fest skilling playlist |
-| Where | AI Skills Navigator |
-| Reward | free certification exam voucher + digital badges |
-| Voucher claim | submit a form with your info (not automatic) |
-| Badge delivery | Via email |
----
-
-## Eligibility
-
-To enter, you must:
-
-- Have reached the age of majority in your province, territory, or country of residence at the time of entry. If you have not, you must obtain consent from a parent or legal guardian.
-- Have a registered and active AI Skills Navigator account.
-- Follow the regional restrictions for countries where the offer is void, including Cuba, Iran, North Korea, Sudan, Syria, the Region of Crimea, Russia, and where prohibited by law.
-
-> ⚠️ The completed AI Skills Fest skilling playlist cannot be edited or modified to be eligible for receipt of completion rewards.
+| Program | Microsoft Certification Week |
+| Event period | September 28 – October 2, 2026 |
+| Reward | Free Microsoft Certification exam voucher |
+| Method | Complete LevelUp practice assessment with 80%+ score |
+| Registration requirement | Work/business email required |
+| Website | https://certweeks.fastlane.net/asia/ais-aibs-en |
 
 ---
 
-## Challenge Details
+## Important Notes
 
-To participate, you must register on AI Skills Navigator and acknowledge that you have read and agree to the Official Rules.
-
-To qualify for the voucher, participants must complete one unmodified, eligible Microsoft AI Skills Fest skilling playlist in its entirety on AI Skills Navigator during the Active Period.
-
----
-
-## Rewards
-
-| Reward | Details |
-|---|---|
-| One (1) free Microsoft Certification exam voucher | Voucher terms, expiration dates, and eligible exams are specified at the time of distribution |
-| One (1) digital badge | Recognizes completion of a Microsoft AI Skills Fest skilling playlist |
-
-Important details:
-
-- The digital badge will be distributed via email from Credly by June 19.
-- To receive the voucher by email, participants must complete the form with their information. The voucher will not be triggered automatically.
-- The certification exam voucher must be redeemed within 60 days of issuance, by 12:00 AM UTC, August 11, 2026.
-- Limit one reward per person, regardless of the number of skilling playlists completed.
-
----
-
-## General Terms and Conditions
-
-To the extent permitted by law, by participating in AI Skills Fest, you agree to release and hold harmless Microsoft and its respective parents, partners, subsidiaries, affiliates, employees, and agents from any and all liability, injury, loss, or damage of any kind arising from or in connection with participation in AI Skills Fest or receipt or use of any reward.
-
-All decisions regarding eligibility, completion, and rewards are final and binding.
-
-Microsoft reserves the right to cancel, modify, suspend, or terminate AI Skills Fest for any reason, including but not limited to fraud, cheating, technical failures, or any other factor that compromises the integrity or proper functioning of AI Skills Fest.
-
-Personal data collected during AI Skills Fest will be used by Microsoft solely for the administration and operation of AI Skills Fest and in accordance with the Microsoft Privacy Statement.
-
----
-
-## Step-by-Step Checklist
-
-- [ ] Confirm you meet the age-of-majority requirement, or have guardian consent.
-- [ ] Register and activate an AI Skills Navigator account.
-- [ ] Acknowledge and agree to the Official Rules.
-- [ ] Choose an eligible AI Skills Fest skilling playlist.
-- [ ] Complete the entire playlist between June 8–12, 2026 (UTC) without editing or modifying it.
-- [ ] Submit the form with your information to trigger the voucher.
-- [ ] Watch for the Credly badge email by June 19, 2026.
-- [ ] Redeem the voucher before 12:00 AM UTC, August 11, 2026.
-
----
-
-## Suggested GitHub Topics
-
-`microsoft`, `ai`, `azure`, `certification`, `microsoft-learn`, `ai-skills-fest`, `generative-ai`, `machine-learning`, `copilot`, `azure-ai`, `github-readme`, `tech-community`
-
----
-
-## 👨‍💻 Maintained By
-
-**Poorna Madhushan**
-
-- AI & Cloud Enthusiast
-- Microsoft Learning Community Contributor
-- Passionate about AI, Azure, and Emerging Technologies
-
-[Poorna Madhushan](https://github.com/Poornamadhushan)
+- This is a Microsoft partner-focused event and some content may be restricted.
+- Always verify the latest terms, conditions, and eligibility on the official Microsoft/registration page before joining.
+- Public email addresses are not accepted for registration.
+- The voucher is not guaranteed unless the assessment threshold is met and eligibility requirements are satisfied.
 
 ---
 
 ## Disclaimer
 
-This repository is community-created and is not officially affiliated with Microsoft.
-
-Users should verify all information through official Microsoft sources before participating or claiming any voucher.
-
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/Poornamadhushan?style=social)](https://github.com/Poornamadhushan)
-[![Forks](https://img.shields.io/github/forks/Poornamadhushan/AI-Skills-Fest-2026?style=social)](https://github.com/Poornamadhushan/AI-Skills-Fest-2026/fork)
-
-</div>
+This project is an unofficial, community-curated resource. Always verify the latest offer details directly on the official registration or Microsoft source before registering or relying on the voucher.
 
 ---
 
-<div align="center">
+## Suggested topics
 
-Made Poorna Madhushan 
+microsoft, certification, vouchers, free-certification, azure, ai, security, power-platform, learning
 
-</div>
+---
+
+## Maintained by
+
+This README is maintained as a community resource for tracking active Microsoft certification voucher opportunities.
