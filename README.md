@@ -1,5 +1,18 @@
 # Microsoft Certification Voucher Offers
 
+<div align="left" style="border-left: 4px solid #1f8fff; padding-left: 16px; margin: 18px 0 20px 0;">
+  <h3 style="margin: 0; color: #1f8fff; font-weight: 700;">Maintained by <a href="https://github.com/Poornamadhushan" style="color: #1f8fff; text-decoration: none;">Poornamadhushan</a></h3>
+</div>
+
+<p align="left">
+  <a href="https://github.com/Poornamadhushan">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Follow me on GitHub" />
+  </a>
+  <a href="https://github.com/Poornamadhushan/Free-Ms-Certifications">
+    <img src="https://img.shields.io/github/stars/Poornamadhushan/Free-Ms-Certifications?style=for-the-badge&logo=github" alt="Star this repo" />
+  </a>
+</p>
+
 A curated list of active Microsoft certification voucher opportunities, including the current Microsoft Certification Week event and related official programs.
 
 > This repository is community-maintained and intended to help people find active Microsoft certification rewards and voucher opportunities.
