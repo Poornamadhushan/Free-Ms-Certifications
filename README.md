@@ -93,11 +93,6 @@ The program includes 16 role-based certification tracks, including:
 
 This project is an unofficial, community-curated resource. Always verify the latest offer details directly on the official registration or Microsoft source before registering or relying on the voucher.
 
----
-
-## Suggested topics
-
-microsoft, certification, vouchers, free-certification, azure, ai, security, power-platform, learning
 
 ---
 
