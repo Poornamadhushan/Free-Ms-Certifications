@@ -100,19 +100,9 @@ This project is an unofficial, community-curated resource. Always verify the lat
 
 This README is maintained as a community resource for tracking active Microsoft certification voucher opportunities.
 
----
 
-## Microsoft GitHub Copilot Day Sweepstakes — Official Rules
 
-The official rules for the Microsoft GitHub Copilot Day Sweepstakes have been moved to [./COPILOT_DAY_SWEEPSTAKES.md](./COPILOT_DAY_SWEEPSTAKES.md). This file contains the full text of the official rules for reference and archival purposes.
 
----
-
-### Repository rename suggestion
-
-Based on the added Sweepstakes content, this repository name could be updated to better reflect the combined focus. Suggested new repository name: `Free-Ms-Certifications-and-Sweepstakes`.
-
-Note: I cannot rename the GitHub repository programmatically from this chat. If you want the repository renamed on GitHub, you can either:
 
 1. Rename it in the GitHub web UI: Settings → Repository name → Edit and type `Free-Ms-Certifications-and-Sweepstakes`, or
 2. Create a new repository with the suggested name and push this content to it (I can create the new repository for you if you want).
