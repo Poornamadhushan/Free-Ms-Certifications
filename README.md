@@ -94,11 +94,6 @@ The program includes 16 role-based certification tracks, including:
 This project is an unofficial, community-curated resource. Always verify the latest offer details directly on the official registration or Microsoft source before registering or relying on the vou[...] 
 
 
----
-
-## Maintained by
-
-This README is maintained as a community resource for tracking active Microsoft certification voucher opportunities.
 
 
 
